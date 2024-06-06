@@ -1,0 +1,14 @@
+-rootPath
+D:/Qt Learning With Projects/PdfViewingDemo
+-cmake-output
+-output-file
+D:/Qt Learning With Projects/PdfViewingDemo/build/Desktop_Qt_6_5_5_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appPdfViewingDemo.cmake
+-importPath
+D:/Qt Learning With Projects/PdfViewingDemo/build/Desktop_Qt_6_5_5_MSVC2019_64bit-Debug/PdfViewingDemo
+-importPath
+D:/Qt Learning With Projects/PdfViewingDemo/build/Desktop_Qt_6_5_5_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.5.5/msvc2019_64/./qml
+-qrcFiles
+D:/Qt Learning With Projects/PdfViewingDemo/build/Desktop_Qt_6_5_5_MSVC2019_64bit-Debug/.rcc/qmake_PdfViewingDemo.qrc
+D:/Qt Learning With Projects/PdfViewingDemo/build/Desktop_Qt_6_5_5_MSVC2019_64bit-Debug/.rcc/appPdfViewingDemo_raw_qml_0.qrc

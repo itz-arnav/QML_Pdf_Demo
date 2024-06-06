@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/PdfViewingDemo/">
+    <file alias="Main.qml">D:/Qt Learning With Projects/PdfViewingDemo/Main.qml</file>
+    <file alias="Resourcr.qrc">D:/Qt Learning With Projects/PdfViewingDemo/Resourcr.qrc</file>
+  </qresource>
+</RCC>
+
