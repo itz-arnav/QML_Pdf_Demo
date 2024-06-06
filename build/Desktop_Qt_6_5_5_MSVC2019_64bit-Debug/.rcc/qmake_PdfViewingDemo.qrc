@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/PdfViewingDemo">
-    <file alias="qmldir">D:/Qt Learning With Projects/PdfViewingDemo/build/Desktop_Qt_6_5_5_MSVC2019_64bit-Debug/PdfViewingDemo/qmldir</file>
-  </qresource>
-</RCC>
-

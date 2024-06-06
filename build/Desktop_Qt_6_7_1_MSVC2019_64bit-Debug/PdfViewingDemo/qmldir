@@ -1,5 +1,0 @@
-module PdfViewingDemo
-typeinfo appPdfViewingDemo.qmltypes
-prefer :/PdfViewingDemo/
-Main 1.0 Main.qml
-
